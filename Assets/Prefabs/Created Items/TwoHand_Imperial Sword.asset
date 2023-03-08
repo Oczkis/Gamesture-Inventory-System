@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1780b2e514c966a49ba2d37f99649580, type: 3}
+  m_Name: TwoHand_Imperial Sword
+  m_EditorClassIdentifier: 
+  itemName: 
+  statDescription: 
+  flavourDescription: 
+  quantity: 0
+  qualityBackground: {fileID: 0}
+  itemType: 0
+  itemIcon: {fileID: 21300000, guid: 0ca3b2b9d167f2d49a5ba966e8fa3e07, type: 3}
+  itemModel: {fileID: -4963200500458594540, guid: 3b82fdfce0c24a547869c478d04f94d9,
+    type: 3}
+  maxQuantity: 1
+  basicItemName: Imperial Sword
